@@ -50,12 +50,15 @@ Stack Overflow
 w3schools
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 The biggest challenge I would say I faced was setting the background image for the buttons. As first I did not know how to go about doing such a task. With some internet searching I found a stack overflow post discussing the same issue as well as a w3schools post about "hero" backgrounds, which I still need to research, but it did discuss on how to use background-image. This allowed me to implement such a feature of having different backgrounds on each button. Whilst this was was not a huge challenge I believe this was the hardest challenge I delt with when creating this project.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I want to learn more about the collaberative aspect of web development. How do people collaborate under github and how do you know when someone is modifying a tag? I feel as if many bugs can occur from modifying a css section from someone else's code.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had more time on this project I would definitly work on implementing a timer for users. This I believe would have taken me another hour to implement as I would have had to work with another div that deals with the counter and would have had to study on how to use time intervals. Though difficult I would not doubt that I would have been able to implement such a task. As well I would have wanted to rewrite some code that seemed repetive/unoptimized. Finally I would have loved to put flute notes for each press.
 
 
@@ -67,7 +70,7 @@ If I had more time on this project I would definitly work on implementing a time
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Jason Osorio Marin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
