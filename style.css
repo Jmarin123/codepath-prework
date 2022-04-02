@@ -1,0 +1,93 @@
+/* a minimalist set of CSS resets */
+
+body {
+  margin: 2em;
+  font-family: helvetica, arial, sans-serif;
+  background-color: slategray;
+  color: white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+}
+
+#button1:active,
+#button1.lit {
+  background-image: url("https://cdn.glitch.global/bb568099-9a2b-4bcd-8cca-aa0493793b5e/E0bJFiMXEAI6hc4.jpg?v=1648854210162");
+  background-size: cover;
+  background-position: center;
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button2:active,
+#button2.lit {
+  background-image: url("https://cdn.glitch.global/bb568099-9a2b-4bcd-8cca-aa0493793b5e/NDEJHS.png?v=1648854127124");
+  background-size: cover;
+  background-position: center;
+}
+
+#button3 {
+  background: pink;
+}
+
+#button3:active,
+#button3.lit {
+  background-image: url(https://cdn.glitch.global/bb568099-9a2b-4bcd-8cca-aa0493793b5e/294-2945095_3d-ish-fire-flower-mario-fire-flower-sprite.png?v=1648853730464);
+  background-size: cover;
+  background-position: center;
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+#button4:active,
+#button4.lit {
+  background-image: url("https://cdn.glitch.global/bb568099-9a2b-4bcd-8cca-aa0493793b5e/sun_sprite_by_medamayakii_d5gzpl3-pre.jpg?v=1648853967810");
+  background-size: cover;
+  background-position: center;
+}
+
+#button5 {
+  background: rgb(232, 153, 79);
+}
+
+#button5:active,
+#button5.lit {
+  background-image: url("https://cdn.glitch.global/bb568099-9a2b-4bcd-8cca-aa0493793b5e/download.png?v=1648852887611");
+  background-size: cover;
+  background-position: center;
+}
+
+#button6 {
+  background: rgb(235, 108, 213);
+}
+
+#button6:active,
+#button6.lit {
+  background-image: url("https://cdn.glitch.global/bb568099-9a2b-4bcd-8cca-aa0493793b5e/png-clipart-sonic-chaos-sonic-the-hedgehog-sprite-chaos-emeralds-sonic-the-hedgehog-purple-gemstone-thumbnail.png?v=1648854334915");
+  background-size: cover;
+  background-position: center;
+}
